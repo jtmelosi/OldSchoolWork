@@ -1,0 +1,27 @@
+         Shady Elm Golf Course
+
+ Scorecard for Slammin' Sammy Hagar
+
+ Hole #   Par:   Score:   Result:   
+------------------------------------
+   1       4       4        Par  
+   2       4       5      Bogey  
+   3       4       6   Double Bogey  
+   4       3       7      Oh No  
+   5       5       2   Double Eagle  
+   6       3       1   Hole in One  
+   7       4       2      Eagle  
+   8       5       4     Birdie  
+   9       4       4        Par  
+  10       4       4        Par  
+  11       3       4      Bogey  
+  12       5       4     Birdie  
+  13       4       3     Birdie  
+  14       4       6   Double Bogey  
+  15       5       3      Eagle  
+  16       3       6   Triple Bogey  
+  17       4       3     Birdie  
+  18       4       3     Birdie  
+------------------------------------
+Totals:   72      71 
+Overall Score: -1  
